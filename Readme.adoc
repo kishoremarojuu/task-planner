@@ -58,3 +58,12 @@ image::1.png[]
 image::2.png[]
 
 image::3.png[]
+
+
+
+how to execute this project:  
+
+prerequistes: sprig-boot, java8
+
+run: just run mvn spring-boot:run or run the runner class as spring boot, 
+and hit htpp://localhost:9000/ 
